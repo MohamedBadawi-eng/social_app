@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296470230370",
+    "project_id": "social-82ea9",
+    "storage_bucket": "social-82ea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296470230370:android:d90ebe8b82b274fe41683b",
+        "android_client_info": {
+          "package_name": "com.example.badawi.social.social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi1OKtM98pUyKiOK-JJjH7A_XLgI9jGJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
